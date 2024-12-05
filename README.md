@@ -1,16 +1,13 @@
-# tp_synchronisation
+# Atelier 4 : Programmation Asynchrone
 
-A new Flutter project.
+## Objectif :
+<ul>
+  <li>Comprendre comment gérer les opérations asynchrones
+avec Future et Stream.</li>
+  <li>Utiliser des widgets comme FutureBuilder et StreamBuilder pour
+synchroniser l'affichage des données.</li>
+  <li>Implémenter la gestion des erreurs et des états (chargement, succès,
+échec).</li>
+</ul>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/0716d1fe-1ea6-4807-8484-c861ddf1bfe7)
